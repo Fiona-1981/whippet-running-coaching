@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<title>Whippet Running Coaching Rates</title>
+<link type="text/css" rel="stylesheet" href="css/whippetrunningcoaching.css">
+</head>
+
+<body>
+
+<div id="header">
+
+<h1>Whippet Running Coaching</h1>
+
+<ul>
+<li><a href="index.html">WELCOME</a></li>
+<li><a href="about.html">ABOUT ME</a></li>
+<li><a href="testimonials.html">TESTIMONIALS</a></li>
+<li><a href="rates.html">RATES</a></li>
+<li><a href="friends.html">FRIENDS</a></li>
+<li><a href="contact.html">CONTACT</a></li>
+</ul>
+
+<p>
+<a href="https://twitter.com/WhippetRC" class="twitter-follow-button" 
+data-show-count="false">Follow me on Twitter @WhippetRC</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if
+(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=
+"//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}
+(document,"script","twitter-wjs");</script>
+</p>
+
+<p>
+<a href="https://twitter.com/share" class="twitter-share-button" 
+data-via="WhippetRC">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if
+(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=
+"//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}
+(document,"script","twitter-wjs");</script>
+</p>
+
+</div>
+
+<h2>
+Rates
+</h2>
+
+<p>
+As a guide, I charge £25 per hour for one to one training. Please do 
+<a href="mailto:run@whippetrunningcoaching.co.uk?Subject=Whippet%20Running%20Coaching%20Enquiry">
+email me</a> to discuss shorter or longer sessions, or group sessions.
+</p>
+
+
+<div id="footer">
+<p>
+&copy; 2013, Whippet Running Coaching
+</p>
+</div>
+
+</body>
+
+</html>
